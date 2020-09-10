@@ -1,0 +1,4 @@
+//无访问权限
+http://localhost:8080/demo/query?name=lisi&username=user1
+//有访问权限
+http://localhost:8080/demo/query?name=lisi&username=user2
